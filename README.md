@@ -12,7 +12,7 @@
 * SEC 4
 * GITHUB : Guitarphatcha
 ---
-![StudentPhoto](./media/studentphotoo.jpg)
+![StudentPhoto](./media/studentphotoo.jpeg)
 * RATTANAPONG PHULAPDUANG
 * 643020639-7
 * SEC 4
