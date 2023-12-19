@@ -14,6 +14,43 @@ clothes manufactured from which should have the wonderful property of remaining 
 everyone who was unfit for the office he held, or who was extraordinarily simple in character.
 (Phase 1 NUTTAKIT)
 ---
+"These must, indeed, be splendid clothes!" thought the Emperor. "Had I such a suit, I might at
+once find out what men in my realms are unfit for their office, and also be able to distinguish
+the wise from the foolish! This stuff must be woven for me immediately." And he caused large
+sums of money to be given to both the weavers in order that they might begin their work
+directly.
+So the two pretended weavers set up two looms, and affected to work very busily, though in
+reality they did nothing at all. They asked for the most delicate silk and the purest gold thread;
+put both into their own knapsacks; and then continued their pretended work at the empty
+looms until late at night.
+(Phase 2 PHATCHARAMAI)
+---
+"I should like to know how the weavers are getting on with my cloth," said the Emperor to
+himself, after some little time had elapsed; he was, however, rather embarrassed, when he
+remembered that a simpleton, or one unfit for his office, would be unable to see the
+manufacture. To be sure, he thought he had nothing to risk in his own person; but yet, he
+would prefer sending somebody else, to bring him intelligence about the weavers, and their
+work, before he troubled himself in the affair. All the people throughout the city had heard of
+the wonderful property the cloth was to possess; and all were anxious to learn how wise, or
+how ignorant, their neighbors might prove to be.
+"I will send my faithful old minister to the weavers," said the Emperor at last, after some
+deliberation, "he will be best able to see how the cloth looks;
+(Phase 3 PHATCHARAMAI)
+---
+So the faithful old minister went into the hall, where the knaves were working with all their
+might, at their empty looms. "What can be the meaning of this?" thought the old man, opening
+his eyes very wide. "I cannot discover the least bit of thread on the looms." However, he did not
+express his thoughts aloud.
+
+The impostors requested him very courteously to be so good as to come nearer their looms;
+and then asked him whether the design pleased him, and whether the colors were not very
+beautiful; at the same time pointing to the empty frames. The poor old minister looked and
+looked, he could not discover anything on the looms, for a very good reason, viz: there was
+nothing there. "What!" thought he again. "Is it possible that I am a simpleton? I have never
+thought so myself; and no one must know it now if I am so. Can it be, that I am unfit for my
+office? No, that must not be said either. I will never confess that I could not see the stuff."
+(Phase 4 PHATCHARAMAI)
+---
 "Does not the stuff appear as beautiful to you, as it did to my lord the minister?" asked the
 impostors of the Emperor's second ambassador; at the same time making the same gestures as
 before, and talking of the design and colors which were not there.
