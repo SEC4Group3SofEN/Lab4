@@ -1,6 +1,6 @@
 # G3_SEC4
 ## MEMBER 
-
+![StudentPhoto](./media/studentphoto.png)
 * NUTTAKIT THAIPHUTTRA
 * 643021318-2
 * SEC 4
