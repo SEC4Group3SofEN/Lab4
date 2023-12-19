@@ -6,7 +6,9 @@
 * SEC 4
 * GITHUB : NUTTAKITCS
 ---
+![StudentPhoto](./media/studentphoto.jpg)
 * PHATCHARAMAT THONGDEE
 * 643021329-7
 * SEC 4
 * GITHUB : Guitarphatcha
+---
