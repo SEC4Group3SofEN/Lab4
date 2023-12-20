@@ -22,5 +22,5 @@
 * SEC 4
 * GITHUB : Jirachaya643020598-5
 ![StudentPhoto](./media/studentphoto.jpg)
-* ---
+---
 
