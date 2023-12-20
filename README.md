@@ -24,4 +24,9 @@
 * SEC 4
 * GITHUB : Jirachaya643020598-5
 ---
+* นายนนธวัช พงษ์เผือก
+* 643020616-9
+* SEC 4
+* NONTHAWAT
+* ![studentphoto](https://github.com/NUTTAKITCS/G3_SEC4/assets/137927262/8db674e6-350f-4d14-80b3-eec768fcb99e)
 
