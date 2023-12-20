@@ -62,6 +62,14 @@ colors and patterns. "Indeed, please your Imperial Majesty," said he to his sove
 returned, "the cloth which the weavers are preparing is extraordinarily magnificent."
 (Phase 7 NUTTAKIT)
 ---
+The whole city was talking of the splendid cloth which the Emperor had ordered to be woven at his own expense.
+
+And now the Emperor himself wished to see the costly manufacture,while it was still in the loom.Accompanied by a select number of officers of the court,among whom were the two honest men who had already admired the cloth,he went to the crafty impostors,who,as soon as they were aware of the Emperor's approach,went on working more diligently than ever; although they still did not pass a single through the looms.
+(Phase 8 RATTANAPONG)
+---
+"Is not the work absolutely magnificent?" said the two officers of the crown,already mentioned. "If your Majesty will only be pleased to look at it! What a splendid design! What glorious colors!" and at the same time they pointed to the empty frames; for they imagined that everyone else could see this exquisite pice of workmanship.
+(Phase 9 RATTANAPONG)
+---
 "How is this?" said the Emperor to himself. "I can see nothing! This is indeed a terrible affair!
 Am I a simpleton, or am I unfit to be an Emperor? That would be the worst thing that could
 happen--Oh! the cloth is charming," said he, aloud. "It has my complete approbation." And he
