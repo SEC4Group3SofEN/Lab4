@@ -54,7 +54,23 @@ office? No, that must not be said either. I will never confess that I could not 
 "Does not the stuff appear as beautiful to you, as it did to my lord the minister?" asked the
 impostors of the Emperor's second ambassador; at the same time making the same gestures as
 before, and talking of the design and colors which were not there.
-
+---
+The impostors requested him very courteously to be so good as to come nearer their looms;
+and then asked him whether the design pleased him, and whether the colors were not very
+beautiful; at the same time pointing to the empty frames. The poor old minister looked and
+looked, he could not discover anything on the looms, for a very good reason, viz: there was
+nothing there. "What!" thought he again. "Is it possible that I am a simpleton? I have never
+thought so myself; and no one must know it now if I am so. Can it be, that I am unfit for my
+office? No, that must not be said either. I will never confess that I could not see the stuff."
+(Phase 5 NONTHAWAT)
+---
+"Well, Sir Minister!" said one of the knaves, still pretending to work. "You do not say whether
+the stuff pleases you."
+"Oh, it is excellent!" replied the old minister, looking at the loom through his spectacles. "This
+pattern, and the colors, yes, I will tell the Emperor without delay, how very beautiful I think
+them."
+(Phase 6 NONTHAWAT)
+---
 "I certainly am not stupid!" thought the messenger. "It must be, that I am not fit for my good,
 profitable office! That is very odd; however, no one shall know anything about it." And
 accordingly he praised the stuff he could not see, and declared that he was delighted with both
