@@ -18,7 +18,7 @@
 * SEC 4
 * GITHUB : RATTANAPONG04
 ---
-![StudentPhoto](./media/studentphoto.jpeg)
+![StudentPhoto](media/studentphotojirachaya.jpg)
 * JIRACHAYA SUEJANTUKE
 * 643020598-5
 * SEC 4
