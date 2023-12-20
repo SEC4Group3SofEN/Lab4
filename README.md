@@ -6,7 +6,7 @@
 * SEC 4
 * GITHUB : NUTTAKITCS
 ---
-![StudentPhoto](./media/studentphoto.jpg)
+![StudentPhoto](./media/studentphoto_.jpeg)
 * PHATCHARAMAT THONGDEE
 * 643021329-7
 * SEC 4
@@ -18,6 +18,7 @@
 * SEC 4
 * GITHUB : RATTANAPONG04
 ---
+![StudentPhoto](./media/studentphoto.jpg)
 * JIRACHAYA SUEJANTUKE
 * 643020598-5
 * SEC 4
